@@ -1,0 +1,1 @@
+/Users/vimal/Developer/Code/Rust/100DaysofCode-Rust/Day-005/numeric_operations/target/debug/numeric_operations: /Users/vimal/Developer/Code/Rust/100DaysofCode-Rust/Day-005/numeric_operations/src/main.rs
