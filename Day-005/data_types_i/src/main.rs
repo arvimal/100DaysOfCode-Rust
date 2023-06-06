@@ -11,4 +11,5 @@ fn main() {
     let b = 32.321; // The compiler defaults to f64, if data-type is not specified.
     
     println!("x: {x}, y: {y}, z = {z}, a = {a}, b = {b}");
+    println!("When will I start doing something consistently?")
 }
