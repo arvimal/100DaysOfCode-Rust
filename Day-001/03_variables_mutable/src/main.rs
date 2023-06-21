@@ -4,8 +4,8 @@ fn main() {
     println!("a is {}", a);
 
     // 2. Re-assigning var `a` will not work, unless:
-    //  2.1. Variable is marked mutable (let mut)
-    //  2.2.  
-    a = "Hello World!";
-    println!(a);
+    // 2.1. Variable is not marked mutable (let mut)
+    // 2.2. A different type (string) is assigned to an int type
+    // a = "Hello World!";
+    // println!(a);
 }

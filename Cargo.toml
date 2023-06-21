@@ -1,4 +1,6 @@
 [workspace]
+name = "100DaysofCode-Rust"
+authors = "Vimal A R <arvimal81@gmail.com>"
 
 members = [
   "Day-001/*/",
