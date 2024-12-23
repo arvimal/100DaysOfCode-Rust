@@ -13,6 +13,10 @@ fn main() {
     println!("A year has {} days", 365);
     //
     /// Named arguments can be used within {}
-    println!("{subject} {verb} {object}", subject="The lazy ox", verb="is swimming", object="in the pond");
-
+    println!(
+        "{subject} {verb} {object}",
+        subject = "The lazy ox",
+        verb = "is swimming",
+        object = "in the pond"
+    );
 }
